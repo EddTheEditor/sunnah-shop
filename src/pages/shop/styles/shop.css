@@ -1,0 +1,23 @@
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+
+.MainPage{
+    position: relative;
+    display:list-item ;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    margin-top: 50px;
+    width : 100%;
+    min-height : 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin : 0;
+    
+    
+}
+.MainPage h1{
+    color: #262626;
+    font-size: 3rem;
+}
